@@ -1,4 +1,5 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TimerControl.aspx.cs" Inherits="TimerControl" %>
+﻿<%--10. Write a program which use the AJAX Timer Control.--%>
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TimerControl.aspx.cs" Inherits="TimerControl" %>
 
 <!DOCTYPE html>
 

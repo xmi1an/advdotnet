@@ -466,6 +466,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Practical21", "Practical21\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "64706"
+		SlnRelativePath = "Practical21\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject

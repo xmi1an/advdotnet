@@ -11,7 +11,7 @@ public partial class _Default : System.Web.UI.Page
     }
     protected void btnLogin_Click(object sender, EventArgs e)
     {
-        string query = "SELECT * FROM tbl_login WHERE username = '"+txtUsername.Text+"' and password = '"+txtPassword.Text+"' ";
+        string query = "SELECT * FROM tbl_login WHERE username = '" + txtUsername.Text + "' and password = '" + txtPassword.Text + "' ";
         SqlCommand cmd = new SqlCommand(query, con);
         SqlDataReader rdr = cmd.ExecuteReader();
         if (rdr.Read())

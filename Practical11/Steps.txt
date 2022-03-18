@@ -1,0 +1,8 @@
+﻿11. Write steps to add AJAX control Toolkit in to the Toolbox.
+
+Step 1 : Go to https://www.devexpress.com/products/ajax-control-toolkit/
+
+Step 2 : Download AJAX Control Toolkit.
+
+Step 3 :  Install the Setup.
+

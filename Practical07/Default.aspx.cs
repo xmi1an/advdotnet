@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Text;
-
 
 public partial class _Default : System.Web.UI.Page
 {
@@ -18,7 +16,6 @@ public partial class _Default : System.Web.UI.Page
          
             //saving the file in Website Directory.
             //FileUpload1.SaveAs(Server.MapPath("~/Files/") + FileUpload1.FileName);
-
         }
         else
         {

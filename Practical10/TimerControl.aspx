@@ -17,7 +17,7 @@
                 <ContentTemplate>
                     <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
                     <br />
-                    <asp:Timer ID="Timer1" runat="server" Interval="500" OnTick="Timer1_Tick">
+                    <asp:Timer ID="Timer1" runat="server" Interval="5000" OnTick="Timer1_Tick" OnDataBinding="Timer1_DataBinding">
                     </asp:Timer>
                 </ContentTemplate>
             </asp:UpdatePanel>

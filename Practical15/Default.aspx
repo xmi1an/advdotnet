@@ -11,7 +11,7 @@
         <div>
             <asp:HiddenField ID="HiddenField1" runat="server" Value="0" />
                         <br />
-            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Click me" />
                         <br />
         </div>
     </form>

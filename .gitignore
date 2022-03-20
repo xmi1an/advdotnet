@@ -262,7 +262,7 @@ ServiceFabricBackup/
 *.rptproj.bak
 
 # SQL Server files
-# *.mdf
+*.mdf
 *.ldf
 *.ndf
 
@@ -359,5 +359,3 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# Fody - auto-generated XML schema
-FodyWeavers.xsd

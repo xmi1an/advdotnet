@@ -32,7 +32,7 @@
             </table>
             
             <asp:Button ID="btnInsert" runat="server" OnClick="btnInsert_Click" Text="Insert" />
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
             
             <asp:Button ID="btnUpdate" runat="server" Text="Update" OnClick="btnUpdate_Click"/>
             &nbsp;&nbsp;&nbsp;

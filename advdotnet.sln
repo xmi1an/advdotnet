@@ -492,6 +492,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Practical22", "Practical22\
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+<<<<<<< HEAD
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Practical23", "Practical23\", "{9B3CE16E-8491-4D7F-950A-93D71FDDDA38}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
@@ -513,6 +514,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Practical23", "Practical23\
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+=======
+>>>>>>> 8fe1f3eab7132de76b09f0fc28ec8ef903b1e982
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -562,8 +565,11 @@ Global
 		{5C27FCBE-4C1A-41E5-B1B8-FEA1EAA22107}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB1A333-46C7-490D-AF4B-9EB7D42E7237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5FB1A333-46C7-490D-AF4B-9EB7D42E7237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+<<<<<<< HEAD
 		{9B3CE16E-8491-4D7F-950A-93D71FDDDA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9B3CE16E-8491-4D7F-950A-93D71FDDDA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+=======
+>>>>>>> 8fe1f3eab7132de76b09f0fc28ec8ef903b1e982
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
